@@ -2,6 +2,7 @@
 
 This is my first web development project-a simple amazon homepage clone built using only html and css usine only **html and css** 
 <br>
+<hr>
 ##features
 <hr>
 -Amazon -header with logo and search bar
